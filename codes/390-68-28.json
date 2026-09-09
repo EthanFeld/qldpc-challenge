@@ -5895,7 +5895,8 @@
  },
  "provenance": {
   "authors": [
-   "@seunomonije"
+   "@seunomonije",
+   "@EthanFeld"
   ],
   "model": "Claude Fable 5",
   "construction": "Generalized bicycle (two-block) code on the cyclic group Z_195: H_X = [A|B], H_Z = [B^T|A^T] with A, B circulants; a(x) support {54,68,74,124,148,153} (weight 6), b(x) support {41,53,74,89,101,148,153} (weight 7), max check weight 13. Both a and b are sparse multiples of a common divisor of x^195-1 with k = 2*deg gcd(a,b,x^195-1) = 68 at n = 390. Found in the same divisor-trick sweep as the [[390,82,27]] entry, selected for minimal check weight at high kd^2/n. Distance evidence: rising RIS ladder 20k-2M trials, then 8M-trial refutation passes (seeds 777/999/424242) and pair-depth passes (depths 16/24, 3M trials) all bottoming at d<=28; the 12M-trial witness search returned the embedded weight-28 Z logical, and the GB transpose symmetry (block swap + index reversal) maps it to the embedded weight-28 X logical, machine-verified against ker/rowspace.",
