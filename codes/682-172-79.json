@@ -23210,7 +23210,13 @@
         215, 216, 217, 218, 219, 221, 222, 223, 234, 238, 239, 241, 246, 251,
         252, 253, 263, 275, 278, 283, 292, 296, 298, 300, 305, 307, 308, 310,
         315, 323, 332, 338
-      ]
+      ],
+      "witness_provenance": {
+        "found_by": ["@EthanFeld"],
+        "date": "2026-09-09",
+        "found_at_samples": 1,
+        "tool": "Issue #942 witness report; search budget not reported"
+      }
     },
     "Z": {
       "value": 76,
@@ -23222,7 +23228,13 @@
         522, 529, 546, 548, 553, 554, 559, 561, 562, 565, 569, 572, 575, 577,
         581, 584, 585, 592, 605, 616, 625, 627, 631, 634, 641, 646, 647, 648,
         649, 650, 652, 665, 674, 681
-      ]
+      ],
+      "witness_provenance": {
+        "found_by": ["@EthanFeld"],
+        "date": "2026-09-09",
+        "found_at_samples": 1,
+        "tool": "Issue #942 witness report; search budget not reported"
+      }
     }
   },
   "provenance": {
