@@ -20269,8 +20269,7 @@
  },
  "provenance": {
   "authors": [
-   "@vprusso",
-   "@ethanfeld"
+   "@vprusso"
   ],
   "construction": "Prime-lift generalized bicycle on Z_337: a and b are weight-14 codewords of a designed degree-85 divisor ideal of x^337-1, drawn by a Prange search restricted to a heavy weight band (per-side weight 14-16, row weight 28). k = 2 deg gcd(a, b, x^337-1) = 170.",
   "date": "2026-08-25",
