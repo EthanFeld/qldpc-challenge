@@ -23212,7 +23212,7 @@
         315, 323, 332, 338
       ],
       "witness_provenance": {
-        "found_by": ["@EthanFeld"],
+        "found_by": ["@ethanfeld"],
         "date": "2026-09-09",
         "found_at_samples": 1,
         "tool": "Issue #942 witness report; search budget not reported"
@@ -23230,7 +23230,7 @@
         649, 650, 652, 665, 674, 681
       ],
       "witness_provenance": {
-        "found_by": ["@EthanFeld"],
+        "found_by": ["@ethanfeld"],
         "date": "2026-09-09",
         "found_at_samples": 1,
         "tool": "Issue #942 witness report; search budget not reported"
@@ -23240,7 +23240,7 @@
   "provenance": {
     "authors": [
       "@kessler-frost",
-      "@EthanFeld"
+      "@ethanfeld"
     ],
     "construction": "Cyclic generalized bicycle on Z_341; A=[0, 1, 2, 4, 12, 33, 56, 84, 89, 97, 145, 176, 265, 270, 287, 310]; B=[0, 2, 44, 64, 84, 99, 121, 132, 168, 190, 231, 261, 275, 283, 301, 319].",
     "references": [
