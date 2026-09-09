@@ -5869,7 +5869,13 @@
     2, 7, 17, 22, 32, 37, 47, 52, 62, 67, 77, 82, 92,
     97, 107, 112, 122, 127, 137, 142, 152, 157, 167, 172,
     182, 187
-   ]
+   ],
+   "witness_provenance": {
+    "found_by": ["@EthanFeld"],
+    "date": "2026-09-09",
+    "found_at_samples": 1,
+    "tool": "Issue #942 witness report; search budget not reported"
+   }
   },
   "Z": {
    "value": 26,
@@ -5878,7 +5884,13 @@
     2, 7, 17, 22, 32, 37, 47, 52, 62, 67, 77, 82, 92,
     97, 107, 112, 122, 127, 137, 142, 152, 157, 167, 172,
     182, 187
-   ]
+   ],
+   "witness_provenance": {
+    "found_by": ["@EthanFeld"],
+    "date": "2026-09-09",
+    "found_at_samples": 1,
+    "tool": "Issue #942 witness report; search budget not reported"
+   }
   }
  },
  "provenance": {
