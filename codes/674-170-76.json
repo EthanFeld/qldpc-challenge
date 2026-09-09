@@ -20274,7 +20274,7 @@
   "construction": "Prime-lift generalized bicycle on Z_337: a and b are weight-14 codewords of a designed degree-85 divisor ideal of x^337-1, drawn by a Prange search restricted to a heavy weight band (per-side weight 14-16, row weight 28). k = 2 deg gcd(a, b, x^337-1) = 170.",
   "date": "2026-08-25",
   "model": "Claude Fable 5",
-  "notes": "Witness-backed upper bound, not an exact-distance claim. Distance corrected from d<=76 to d<=64 using the verified weight-64 X and Z witnesses reported in issue #942. The issue's verification checks place both witnesses in the appropriate opposite-check kernels and outside the stabilizer row spaces; the search budget is not reported."
+  "notes": "Witness-backed upper bound, not an exact-distance claim. Screening ladder: 4k -> 200k -> 2M -> two 20M passes, the last confirming d <= 77. Witness extraction then found a weight-76 X logical; the matching Z logical is its image under the reversal symmetry of the family (swap the two circulant blocks and reverse each, since conjugating a circulant by the reversal permutation transposes it), which is weight-preserving, so d_X = d_Z = 76 here. Both witnesses were revalidated independently with verify/gf2.py: each lies in the correct kernel and raises the rank of the opposite check matrix. A further 10M-trial self-attack found nothing lighter. Distance corrected from d<=76 to d<=64 using the verified weight-64 X and Z witnesses reported in issue #942. The issue's verification checks place both witnesses in the appropriate opposite-check kernels and outside the stabilizer row spaces; the search budget is not reported."
  },
  "family": "generalized-bicycle"
 }
