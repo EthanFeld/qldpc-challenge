@@ -23246,7 +23246,7 @@
       "https://github.com/unitaryfoundation/qldpc-challenge/tree/8933cda94eb6beb803cbaad37d925f8d2a8fadcc"
     ],
     "date": "2026-09-06",
-    "notes": "Witness-backed upper bound; literature novelty unverified. Distance corrected from d<=79 to d<=76 using the verified weight-76 X and Z witnesses reported in issue #942. The issue's verification checks place both witnesses in the appropriate opposite-check kernels and outside the stabilizer row spaces; the search budget is not reported.",
+    "notes": "Witness-backed upper bound; literature novelty unverified. {\"engine\": \"upstream gf2_fast.dem_rand_witness\", \"pair_depth\": 24, \"proposal_id\": \"b6d86d076d1b5806\", \"rung\": 4, \"seconds\": 211.35302416599006, \"seed\": 3952028553706826964, \"side\": \"X\", \"source_sha256\": \"d2ad08dffbec95b4650dd30d68275f2db096994420cb377580cffcbb14bf3be1\", \"threads\": 6, \"trials\": 2000000, \"upstream_commit\": \"8933cda94eb6beb803cbaad37d925f8d2a8fadcc\"} Distance corrected from d<=79 to d<=76 using the verified weight-76 X and Z witnesses reported in issue #942. The issue's verification checks place both witnesses in the appropriate opposite-check kernels and outside the stabilizer row spaces; the search budget is not reported.",
     "model": "GPT-6 Astra (openai-codex/gpt-6-astra)"
   },
   "family": "generalized-bicycle"
